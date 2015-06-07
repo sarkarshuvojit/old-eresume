@@ -1,0 +1,23 @@
+{
+	"blogs" :
+	[
+		{
+			"title": "First blog",
+			"body" : "<p>\r\nsome text random\r\n\r\n <pre class=\"prettyprint lang-java\">\r\nclass java{\r\n public static void main(String args[]){\r\n System.out.print(\"YOLO MOFO\");\r\n }\r\n}\r\n </pre>\r\npaisa papapap paisa paisa leke hilaoooo\r\n</p>",
+			"categories": "lol, lel, lulz, k",
+			"date" : "15/02/1997"
+		},
+		{
+			"title": "Second blog",
+			"body" : "aariyapki",
+			"categories": "jsan, lelelellee",
+			"date" : "14/08/1998"
+		},
+		{			
+			"body" : " <p>\r\nUbuntu is probably the most propularly used linux distro, it's pretty simple and easy to use as well. It's \"the linux for humans\" as many people say. <br><br>\r\nI've had experiences with a few operating systems in the past, namely, Windows XP/7/8 (yeah, I didn't even try Vista!! XD), Ubuntu, Elementary OS(which is also based on Ubuntu Core) and I recently switched to Fedora on a friend's recommendation.<br><br>\r\nI'd like to declare this early, Windows does not even stand a chance, so if you're a windows fan-guy, you better get back to getting controlled by your OS. And, if you're a Mac guy, I bow before you man, get outta here, go poop some more money! _/\\_<br><br>\r\nNow, while switching to Fedora, the only thing I thought was going to be different with Fedora was the package manager, Ubuntu used apt-get and Fedora, being based on RedHat, was yum based. After a successful installation, I was like, \"HOLY FUCK, this shit looks good!\". And I need to admit it, Fedora's touch to the GNOME shell was magnificent, it was the most beautiful UI I've ever seen(and I've already used Elementary OS and Win8 as well). The applications menu, the settings, the lock screen! Damn. <br><br>\r\nAnd, then I started using Fedora, I started off with a \"sudo yum update\" which updated my whole system, then I started installing my tools. And, I've gotta, say I was already missing Ubuntu. You see, Fedora, has a not-so-convinient repo. Ubuntu was all like, sudo apt-get install this that this-that that-too, and everything gets installed, all the paths get's configured, hassle free \r\n</p>",
+			"title" : "Why Ubuntu is the best?!",
+			"categories" : "os, comparison, etc",
+			"date" : "May 24th, 2015"
+		}
+	]
+}
