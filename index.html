@@ -244,14 +244,14 @@ Specialization: None
 
         <script src="assets/js/application.js"></script>
         <script>
-            var date1 = new Date("7/13/2010");
-            var date2 = new Date("12/15/2010");
+            var date1 = new Date("6/1/2015");
+            var date2 = new Date("");
             var timeDiff = Math.abs(date2.getTime() - date1.getTime());
             var diffDays = Math.ceil(timeDiff / (1000 * 3600 * 24));
             var st = "";
             var years = diffDays/365;
             var months = (diffDays%365)/30;
-            st = "Working for "+years+" years and "+ months+ " months."
+            st = "Working for "+parseInt(years)+" years and "+ parseInt(months)+ " months."
             $("#ag_till").text(st);
         </script>
       </body>
